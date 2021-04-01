@@ -1,2 +1,2 @@
 # BootCamp de React
-BootCamp de React --Bandtec--
+BootCamp Realizado na matéria de Pesquisa e Inovação
